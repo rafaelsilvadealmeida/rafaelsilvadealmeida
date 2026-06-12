@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=RAFAEL+SILVA+DE+ALMEIDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Área+1+%7C+Área+2+%7C+Área+3&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=200&section=header&text=RAFAEL+SILVA+DE+ALMEIDA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=TÉCNICO+EM+REDES+DE+COMPUTADORES&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SEU_USERNAME">
+  <a href="https://github.com/rafaelsilvadealmeida">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rafael-almeida-915018325/">
