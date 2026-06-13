@@ -35,7 +35,7 @@ Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho int
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [nome-do-projeto](https://github.com/SEU_USERNAME/nome-do-projeto) | Breve descrição | Python, SQLite |
+| [meu-curriculo](https://curriculo-rafael-almeida.netlify.app/) | Currículo | HTML5, CSS3 |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:3e5abb,100:2b4aad&height=100&section=footer" width="100%"/>
