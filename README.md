@@ -34,9 +34,11 @@ Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho int
 ## Projetos em destaque
 
 <div align="center">
+
 | Projeto | Descrição | Tecnologias |
-|---|---|---|
+| :---: | :---: | :---: |
 | [meu-curriculo](https://curriculo-rafael-almeida.netlify.app/) | Currículo | HTML5, CSS3 |
+
 </div>
 
 <div align="center">
