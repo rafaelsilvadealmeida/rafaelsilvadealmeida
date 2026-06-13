@@ -23,7 +23,7 @@
 ## Sobre mim
 
 Sou estudante de Matemática Aplicada e Computacional na Universidade Federal de Sergipe.
-Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho interesse na área de dados, inteligência artificial e automações.
+Atualmente sou membro ativo da Liga Acadêmica Matemática e Empresa e tenho interesse na área de programação web.
 
 ## Tecnologias e Ferramentas
 
