@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/rafaelsilvadealmeida" target="_blank">
+  <a href="https://github.com/rafaelsilvadealmeida">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafael-almeida-915018325/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafael-almeida-915018325/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:almeidarafael1705@gmail.com" target="_blank">
+  <a href="mailto:almeidarafael1705@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
